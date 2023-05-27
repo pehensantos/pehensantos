@@ -33,8 +33,8 @@
 <hr>
 
 Objetivos <!-- Objetivos para serem realizados em até 3 anos --> 
-- Concluir o Tecnólogo em Gestão da Tecnologia da Informação 12/2025.  <!-- Objetivo para 2025-->
-- Iniciar Pós-Graduação em Engenharia de Software 01/2026. <!-- Após a conclusão do objetivo anterior -->
+- Concluir o Tecnólogo em Gestão da Tecnologia da Informação em 12/2025.  <!-- Objetivo para 2025-->
+- Iniciar Pós-Graduação em Segurança da Informação em 01/2026. <!-- Após a conclusão do objetivo anterior -->
 - Aprender mais sobre novas praticas e tecnologias de desenvolvimento. <!-- Aprendendo sempre -->
 
 Principal Stacks <!-- Principais habilidades técnicas -->
