@@ -19,7 +19,7 @@
 			<td>
 			<a target="_blank" href="https://www.linkedin.com/in/pedro-henrique-silva-7b60b8268/">
  			<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-			<a target="_blank" href="https://api.whatsapp.com/send/?phone=5511987914178&text=Ola%2C,+eu+sou+Pedro,+como+eu+posso+ajuda-lo%3F&type=phone_number&app_absent=0">
+			<a target="_blank" href="https://api.whatsapp.com/send/?phone=5511987914178&text=Ola%2C+sou+Pedro,+como+posso+ajuda-lo%3F&type=phone_number&app_absent=0">
 			<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 			<a target="_blank" href="">
 			<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
