@@ -52,13 +52,13 @@ Principal Stacks
 			<th>Projetos Python</th>
 		</tr>
 		<tr class="column1">
-			<td><a href=""> ... <!-- ... --></td>
+			<!--<td><a href=""> ...</td>-->
 		</tr>
 		<tr class="column2">
-			<td><a href=""> ... <!-- ... --></td>
+			<!--<td><a href=""> ...</td>-->
 		</tr>
 		<tr class="column3">
-			<td><a href=""> ... <!-- ... --></td>
+			<!--<td><a href=""> ...</td>-->
 		</tr>
 	</table>
 </div>
