@@ -33,15 +33,14 @@
 <hr>
 
 Objetivos <!-- Objetivos para serem realizados em até 3 anos --> 
-- Concluir o Tecnólogo em Gestão da Tecnologia da Informação em 12/2025.  <!-- Objetivo para 2025-->
-- Iniciar Pós-Graduação em Segurança da Informação em 01/2026. <!-- Após a conclusão do objetivo anterior -->
-- Aprender mais sobre novas praticas e tecnologias de desenvolvimento. <!-- Aprendendo sempre -->
+- Concluir o Tecnólogo em Gestão da Tecnologia da Informação.  
+- Iniciar Pós-Graduação em Inteligência Artificial. 
+- Aprender mais sobre novas praticas e tecnologias de desenvolvimento. 
 
-Principal Stacks <!-- Principais habilidades técnicas -->
-- Linguagem de Programação: Python (Intermediario). <!-- Conhecimentos Consideraveis -->
-- Banco de Dados: MySQL. <!-- Banco de dados que sou habituado -->
-- Sistemas Operacionais: Windows, Linux (básico). <!-- Sistemas operacionais que sou habituado -->
-- Segurança da Informação: Conhecimentos básicos de ferramentas do Kali Linux, Burp Suite e ferramentas de varredura de dados da Web. <!-- Gosto muito da área e aprendo sempre que posso -->
+Principal Stacks 
+- Linguagem de Programação: JavaScript, Python, PHP, C++. 
+- Banco de Dados: MySQL.
+- Sistemas Operacionais: Windows, Linux. 
   
 
  
