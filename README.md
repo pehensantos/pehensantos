@@ -56,10 +56,15 @@ Principal Stacks
 		</tr>
 		<tr class="column2">
 			<td><a href="https://pehensantos.github.io/Canvas/circulos" > Circulos </td>
-			<td><a href="https://pehensantos.github.io/Canvas/jogov1" > JogoV1</td>
 		</tr>
 		<tr class="column3">
-			<td><a > ...</td>
+			<td><a href="https://pehensantos.github.io/Canvas/jogov2" > JogoV2</td>
+		</tr>
+		<tr class="column3">
+			<td><a href="https://pehensantos.github.io/Canvas/jogov3" > JogoV3</td>
+		</tr>
+		<tr class="column3">
+			<td><a href="https://pehensantos.github.io/Canvas/jogov4" > JogoV4</td>
 		</tr>
 	</table>
 </div>
