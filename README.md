@@ -55,7 +55,8 @@ Principal Stacks
 			<td><a href= "https://pehensantos.github.io/foodsplace/"> FoodsPlace</td>
 		</tr>
 		<tr class="column2">
-			<td><a > ...</td>
+			<td><a href="https://pehensantos.github.io/Canvas/circulos" > Circulos </td>
+			<td><a href="https://pehensantos.github.io/Canvas/jogov1" > JogoV1</td>
 		</tr>
 		<tr class="column3">
 			<td><a > ...</td>
