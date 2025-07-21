@@ -52,7 +52,7 @@ Principal Stacks
 			<th>Projetos Python</th>
 		</tr>
 		<tr class="column1">
-			<td><a > ...</td>
+			<td><a href= "https://pehensantos.github.io/foodsplace/"> ...</td>
 		</tr>
 		<tr class="column2">
 			<td><a > ...</td>
