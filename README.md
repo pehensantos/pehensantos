@@ -49,7 +49,7 @@ Principais Stacks
 <div align="center" class="projects">
 	<table>
 		<tr class="header">
-			<th>Projetos Python</th>
+			<th>Projetos</th>
 		</tr>
 		<tr class="column1">
 			<td><a href= "https://pehensantos.github.io/foodsplace/"> FoodsPlace</td>
