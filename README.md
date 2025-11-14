@@ -34,11 +34,11 @@
 
 Objetivos <!-- Objetivos para serem realizados em até 3 anos --> 
 - Concluir o Tecnólogo em Gestão da Tecnologia da Informação.  
-- Iniciar Pós-Graduação em Inteligência Artificial. 
+- Iniciar Pós-Graduação em Ciência de Dados. 
 - Aprender mais sobre novas praticas e tecnologias de desenvolvimento. 
 
-Principal Stacks 
-- Linguagem de Programação: JavaScript, Python, PHP, C++. 
+Principais Stacks 
+- Linguagem de Programação: Python, PHP (Pretendo me aprofundar em C++). 
 - Banco de Dados: MySQL.
 - Sistemas Operacionais: Windows, Linux. 
   
