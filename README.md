@@ -55,7 +55,7 @@ Principais Stacks
 			<td><a href= "https://pehensantos.github.io/foodsplace/"> FoodsPlace</td>
 		</tr>
 		<tr class="column2">
-			<td><a href="https://pehensantos.github.io/Canvas/circulos" > Circulos </td>
+			<td><a href="https://pehensantos.github.io/Canvas/circulos](https://pehensantos.github.io/doce-encanto/" > Circulos </td>
 		</tr>
 		<tr class="column3">
 			<td><a href="https://pehensantos.github.io/Canvas/jogov2" > JogoV2</td>
