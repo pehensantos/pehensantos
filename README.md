@@ -60,12 +60,6 @@ Principais Stacks
 		<tr class="column3">
 			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" >Fran Cosméticos</td>
 		</tr>
-		<tr class="column3">
-			<td><a href="https://pehensantos.github.io/Canvas/jogov3" > JogoV3</td>
-		</tr>
-		<tr class="column3">
-			<td><a href="https://pehensantos.github.io/Canvas/jogov4" > JogoV4</td>
-		</tr>
 	</table>
 </div>
 
