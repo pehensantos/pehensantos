@@ -58,7 +58,7 @@ Principais Stacks
 			<td><a href="https://pehensantos.github.io/doce-encanto/" >Doce Encanto</td>
 		</tr>
 		<tr class="column3">
-			<td><a href="https://pehensantos.github.io/Canvas/jogov2" > JogoV2</td>
+			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" >Fran Cosméticos</td>
 		</tr>
 		<tr class="column3">
 			<td><a href="https://pehensantos.github.io/Canvas/jogov3" > JogoV3</td>
