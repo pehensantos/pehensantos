@@ -52,7 +52,7 @@ Principais Stacks
 			<th>Projetos</th>
 		</tr>
 		<tr class="column1">
-			<td><a href= "https://pehensantos.github.io/foodsplace/"> FoodsPlace</td>
+			<td><a href= "https://pehensantos.github.io/painso-tech/">PainsoTech</td>
 		</tr>
 		<tr class="column2">
 			<td><a href="https://pehensantos.github.io/doce-encanto/" >Doce Encanto</td>
