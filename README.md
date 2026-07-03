@@ -38,8 +38,8 @@ Objetivos <!-- Objetivos para serem realizados em até 3 anos -->
 - Aprender mais sobre novas praticas e tecnologias de desenvolvimento. 
 
 Principais Stacks 
-- Linguagem de Programação: Python, PHP (Pretendo me aprofundar em C++). 
-- Banco de Dados: MySQL.
+- Principais Linguagens de Programação: Python, PHP, JavaScript(Node.js). (Pretendo me aprofundar em C++). 
+- Banco de Dados: MySQL, NoSQL, PostgreSQL.
 - Sistemas Operacionais: Windows, Linux. 
   
 
