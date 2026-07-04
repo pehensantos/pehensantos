@@ -9,7 +9,7 @@
 	<a href="https://github.com/pehensantos">
   	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=pehensantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    	<!-- Most used programming languages -->
-  	<img height="180em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehensantos&layout=compact&langs_count=10&theme=dark"/>
+  	<img height="180em" width="380em" src="https://img.shields.io/badge/99Freelas-Perfil-blue?style=for-the-badge"/>
 </div>
 
 <div align="center" class="contact">
