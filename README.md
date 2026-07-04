@@ -40,7 +40,8 @@ Objetivos <!-- Objetivos para serem realizados em até 3 anos -->
 Principais Stacks 
 - Principais Linguagens de Programação: Python, PHP, JavaScript(Node.js). (Pretendo me aprofundar em C++). 
 - Banco de Dados: MySQL, NoSQL, PostgreSQL.
-- Sistemas Operacionais: Windows, Linux. 
+- Sistemas Operacionais: Windows, Linux.
+- Outras Tecnologias: Docker.
   
 
  
