@@ -55,9 +55,7 @@ Principais Stacks
 - Banco de Dados: MySQL, NoSQL, PostgreSQL.
 - Sistemas Operacionais: Windows, Linux.
 - Outras Tecnologias: Docker.
-  
-
- 
+   
 <hr>
 
 <div align="center" class="projects">
@@ -80,3 +78,9 @@ Principais Stacks
 	</table>
 </div>
 
+<hr>
+
+<div align="center" class="day-streak">
+	<a href="https://github.com/pehensantos"> 
+   	<img height="220em" width="800em" src="https://streak-stats.demolab.com?user=pehensantos&theme=dark"/>
+</div>
