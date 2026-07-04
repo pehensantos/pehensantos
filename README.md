@@ -52,13 +52,13 @@ Principais Stacks
 			<th>Meus Projetos</th>
 		</tr>
 		<tr class="column1">
-			<td><a href= "https://pehensantos.github.io/painso-tech/">PainsoTech</td>
+			<td><a href= "https://pehensantos.github.io/painso-tech/"> PainsoTech</td>
 		</tr>
 		<tr class="column2">
-			<td><a href="https://pehensantos.github.io/doce-encanto/" >Doce Encanto</td>
+			<td><a href="https://pehensantos.github.io/doce-encanto/" > Doce Encanto</td>
 		</tr>
 		<tr class="column3">
-			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" >Fran Cosméticos</td>
+			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" > Fran Cosméticos</td>
 		</tr>
 	</table>
 </div>
