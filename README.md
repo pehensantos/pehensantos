@@ -80,9 +80,3 @@ Principais Stacks
 	</table>
 </div>
 
-<hr>
-
-<div align="center" class="day-streak">
-	<a href="https://github.com/pehensantos"> 
-   	<img height="220em" width="800em" src="https://streak-stats.demolab.com?user=pehensantos&theme=dark"/>
-</div>
