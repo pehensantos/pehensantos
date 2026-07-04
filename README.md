@@ -1,7 +1,12 @@
-<div align="center" class="svg-header-welcome">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=300&color=FFFFFF&center=true&width=800&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+GitHub.;Eu+sou+Pedro+Henrique+Santos.;Sou+formado+em+Gest%C3%A3o+da+TI.;Ser%C3%A1+um+prazer+ajud%C3%A1-lo(a).">
-	</a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=300&color=FFFFFF&center=true&width=800&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub.;Eu+sou+Pedro+Henrique+Santos.;Sou+formado+em+Gest%C3%A3o+da+TI.;Ser%C3%A1+um+prazer+ajud%C3%A1-lo(a)">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=300&color=000000&center=true&width=800&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+GitHub.;Eu+sou+Pedro+Henrique+Santos.;Sou+formado+em+Gest%C3%A3o+da+TI.;Ser%C3%A1+um+prazer+ajud%C3%A1-lo(a)">
+
+  <img src="https://readme-typing-svg.demolab.com?...">
+</picture>
 
 <hr>
 
