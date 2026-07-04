@@ -49,7 +49,7 @@ Principais Stacks
 <div align="center" class="projects">
 	<table>
 		<tr class="header">
-			<th>Projetos</th>
+			<th>Meus Projetos</th>
 		</tr>
 		<tr class="column1">
 			<td><a href= "https://pehensantos.github.io/painso-tech/">PainsoTech</td>
