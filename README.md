@@ -1,5 +1,5 @@
 <div align="center" class="svg-header-welcome">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&width=800&lines=Ol%C3%A1%2C+seja+bem+vindo+ao+meu+GitHub.;Eu+sou+Pedro+Henrique+Santos.;Sou+um+freelancer+com+forma%C3%A7%C3%A3o+em...;Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o.;Ser%C3%A1+um+prazer+ajud%C3%A1-lo.">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&width=800&lines=Ol%C3%A1%2C+seja+bem+vindo(a)+ao+meu+GitHub.;Eu+sou+Pedro+Henrique+Santos.;Sou+um+freelancer+com+forma%C3%A7%C3%A3o+em...;Gest%C3%A3o+da+Tecnologia+da+Informa%C3%A7%C3%A3o.;Ser%C3%A1+um+prazer+ajud%C3%A1-lo(a).">
 	</a>
 </div>
 
