@@ -52,13 +52,16 @@ Principais Stacks
 			<th>Meus Projetos</th>
 		</tr>
 		<tr class="column1">
-			<td><a href= "https://pehensantos.github.io/painso-tech/"> PainsoTech</td>
+			<td><a href= "https://pehensantos.github.io/painso-tech/">landing page: PainsoTech</td>
 		</tr>
 		<tr class="column2">
-			<td><a href="https://pehensantos.github.io/doce-encanto/" > Doce Encanto</td>
+			<td><a href="https://pehensantos.github.io/doce-encanto/" >landing page: Doce Encanto</td>
 		</tr>
 		<tr class="column3">
-			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" > Fran Cosméticos</td>
+			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" >ERP para lojas de cosméticos (meu TCC): Fran Cosméticos</td>
+		</tr>
+		<tr class="column4">
+			<td><a href="https://pehensantos.github.io/------/" >ERP para uma pizzaria/restaurante (meu estágio): Sistema Integrado de Gestão — Maria Fumaça</td>
 		</tr>
 	</table>
 </div>
