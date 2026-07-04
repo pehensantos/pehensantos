@@ -5,21 +5,6 @@
 
 <hr>
 
-Objetivos <!-- Objetivos para serem realizados em até 3 anos --> 
-- Concluir o Tecnólogo em Gestão da Tecnologia da Informação.  
-- Iniciar Pós-Graduação em Ciência de Dados. 
-- Aprender mais sobre novas praticas e tecnologias de desenvolvimento. 
-
-Principais Stacks 
-- Principais Linguagens de Programação: Python, PHP, JavaScript(Node.js). (Pretendo me aprofundar em C++). 
-- Banco de Dados: MySQL, NoSQL, PostgreSQL.
-- Sistemas Operacionais: Windows, Linux. 
-  
-
- 
-<hr>
-
-
 <div align="center" class="stats-and-mostused">
 	<a href="https://github.com/pehensantos">
   	<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=pehensantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -44,6 +29,22 @@ Principais Stacks
 		</tr>
 	</table>
 </div>
+
+<hr>
+
+Objetivos <!-- Objetivos para serem realizados em até 3 anos --> 
+- Concluir o Tecnólogo em Gestão da Tecnologia da Informação.  
+- Iniciar Pós-Graduação em Ciência de Dados. 
+- Aprender mais sobre novas praticas e tecnologias de desenvolvimento. 
+
+Principais Stacks 
+- Principais Linguagens de Programação: Python, PHP, JavaScript(Node.js). (Pretendo me aprofundar em C++). 
+- Banco de Dados: MySQL, NoSQL, PostgreSQL.
+- Sistemas Operacionais: Windows, Linux. 
+  
+
+ 
+<hr>
 
 <div align="center" class="projects">
 	<table>
