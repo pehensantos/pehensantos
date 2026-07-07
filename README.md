@@ -70,10 +70,10 @@ Principais Stacks
 			<td><a href="https://pehensantos.github.io/doce-encanto/" >landing page: Doce Encanto</td>
 		</tr>
 		<tr class="column3">
-			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" >ERP para lojas de cosméticos (meu TCC): Fran Cosméticos</td>
+			<td><a href="https://pehensantos.github.io/ERP-loja-de-cosmeticos-portfolio/" >ERP para lojas de cosméticos (TCC): Sistema de Gestão e Marketplace</td>
 		</tr>
 		<tr class="column4">
-			<td><a href="https://pehensantos.github.io/ERP-para-pizzaria-portfolio/" >ERP para uma pizzaria/restaurante (meu estágio): Sistema Integrado de Gestão</td>
+			<td><a href="https://pehensantos.github.io/ERP-para-pizzaria-portfolio/" >ERP para uma pizzaria/restaurante (estágio): Sistema Integrado de Gestão</td>
 		</tr>
 	</table>
 </div>
