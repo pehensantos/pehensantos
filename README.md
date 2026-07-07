@@ -84,5 +84,3 @@ Principais Stacks
 	<a href="https://github.com/pehensantos"> 
    	<img height="220em" width="800em" src="https://streak-stats.demolab.com?user=pehensantos&theme=dark"/>
 </div>
-		
-<hr>
