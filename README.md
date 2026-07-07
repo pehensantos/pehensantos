@@ -73,7 +73,7 @@ Principais Stacks
 			<td><a href="https://pehensantos.github.io/fran-cosmeticos/" >ERP para lojas de cosméticos (meu TCC): Fran Cosméticos</td>
 		</tr>
 		<tr class="column4">
-			<td><a href="https://pehensantos.github.io/------/" >ERP para uma pizzaria/restaurante (meu estágio): Sistema Integrado de Gestão — Maria Fumaça</td>
+			<td><a href="https://pehensantos.github.io/ERP-para-pizzaria-portfolio/" >ERP para uma pizzaria/restaurante (meu estágio): Sistema Integrado de Gestão</td>
 		</tr>
 	</table>
 </div>
