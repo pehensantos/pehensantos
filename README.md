@@ -86,5 +86,3 @@ Principais Stacks
 </div>
 		
 <hr>
-
-<img src="https://github-readme-stats.vercel.app/api?username=pehensantos&show_icons=true&theme=dark" />
