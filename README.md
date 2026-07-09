@@ -64,7 +64,7 @@ Principais Stacks
 			<th>Meus Projetos</th>
 		</tr>
 		<tr class="column1">
-			<td><a href= "https://pehensantos.github.io/painso-tech/">landing page: PainsoTech</td>
+			<td><a href= "https://pehensantos.github.io/Tech-Future/">landing page: PainsoTech</td>
 		</tr>
 		<tr class="column2">
 			<td><a href="https://pehensantos.github.io/doce-encanto/" >landing page: Doce Encanto</td>
